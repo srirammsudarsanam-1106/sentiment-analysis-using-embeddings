@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+
+.venv/
+venv/
+
+.cache/
+.huggingface/
+
+models/*.pkl
+
+.env
+
+.DS_Store
