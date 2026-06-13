@@ -1,6 +1,6 @@
 # 🎬 Movie Review Sentiment Analysis Using Sentence Embeddings
 
-A machine learning application that performs sentiment analysis on movie reviews using **Sentence Transformers embeddings** and **Logistic Regression**. The project uses the **IMDb Movie Reviews Dataset** and provides both a command-line interface and an interactive Streamlit web application.
+A LLM application that performs sentiment analysis on movie reviews using **Sentence Transformers embeddings** and **Logistic Regression**. The project uses the **IMDb Movie Reviews Dataset** and provides both a command-line interface and an interactive Streamlit web application.
 
 ---
 
